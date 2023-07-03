@@ -30,10 +30,9 @@ public class Program
 
     static void NotdanEkle() 
     {
-            Thread.Sleep(3000);
             lock (isimKilidi)
             {
-            string dosyaYolu = "C:\\Users\\Erdem\\Desktop\\CSharps\\ConsoleProject\\ConsoleProject\\dosya.txt";
+            string dosyaYolu = "dosya.txt"; // Denemek istiyen bunu değiştirmesi lazımdır.
             string[] satırlar = File.ReadAllLines(dosyaYolu);
             foreach (var s in satırlar)
             {
