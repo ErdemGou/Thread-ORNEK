@@ -1,0 +1,15 @@
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\bin\Debug\net6.0\ConsoleProject.exe
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\bin\Debug\net6.0\ConsoleProject.deps.json
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\bin\Debug\net6.0\ConsoleProject.runtimeconfig.json
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\bin\Debug\net6.0\ConsoleProject.dll
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\bin\Debug\net6.0\ConsoleProject.pdb
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\obj\Debug\net6.0\ConsoleProject.csproj.AssemblyReference.cache
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\obj\Debug\net6.0\ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\obj\Debug\net6.0\ConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\obj\Debug\net6.0\ConsoleProject.AssemblyInfo.cs
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\obj\Debug\net6.0\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\obj\Debug\net6.0\ConsoleProject.dll
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\obj\Debug\net6.0\refint\ConsoleProject.dll
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\obj\Debug\net6.0\ConsoleProject.pdb
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\obj\Debug\net6.0\ConsoleProject.genruntimeconfig.cache
+C:\Users\Erdem\Desktop\CSharps\ConsoleProject\ConsoleProject\obj\Debug\net6.0\ref\ConsoleProject.dll
